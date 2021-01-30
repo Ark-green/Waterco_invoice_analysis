@@ -2,8 +2,8 @@
 To understand if there is an issue with Waterco' customers paying a given invoice late, and what factors influence this.
 
 # Areas to cover:
-What are the key findings from the dataset that are important and relevant to the clients problem?
-How did you arrive at these findings?
+* What are the key findings from the dataset that are important and relevant to the clients problem?
+* How did you arrive at these findings?
 
 # Target and features:
 * Billing_Issues_1month – This is the primary column to predict (target), this indicates if the account has raised distress with the invoice provided
